@@ -1,0 +1,646 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"USU",
+				"USUARIO_NO_VERIFICADO〔constant〕"
+			],
+			[
+				"U",
+				"USUARIO_ADMINISTRADOR〔constant〕"
+			],
+			[
+				"USUARIO",
+				"USUARIO_REGULAR〔constant〕"
+			],
+			[
+				"use",
+				"user"
+			],
+			[
+				"ca",
+				"$campos〔variable〕"
+			],
+			[
+				"err",
+				"error_reporting"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"font",
+				"font-weight\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"whi",
+				"width\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"s",
+				"style"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"D",
+				"DIV\tTag"
+			],
+			[
+				"P",
+				"PRODUCTO_NO_DISPONIBLE〔constant〕"
+			],
+			[
+				"background",
+				"background-attachment\tproperty"
+			],
+			[
+				"text",
+				"text-muted"
+			],
+			[
+				"form",
+				"form-group"
+			],
+			[
+				"a",
+				"APIRestful"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"var",
+				"var_dump"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/laragon/www/practicafinal/database/seeds/DatabaseSeeder.php",
+			"settings":
+			{
+				"buffer_size": 2100,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/laragon/www/practicafinal/app/Http/Controllers/User/UserController.php",
+			"settings":
+			{
+				"buffer_size": 5747,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/laragon/www/practicafinal/app/Http/Controllers/Buyer/BuyerController.php",
+			"settings":
+			{
+				"buffer_size": 1006,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/laragon/www/practicafinal/app/User.php",
+			"settings":
+			{
+				"buffer_size": 1170,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "api.php",
+			"settings":
+			{
+				"buffer_size": 1176,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "{\n\t\"folders\":\n\t[\n\t\t{\n\t\t\t\"path\": \"C:\\\\laragon\\\\www\\\\practicafinal\"\n\t\t}\n\t]\n}\n",
+			"file": "proyectoPracticaFinal.sublime-project",
+			"file_size": 75,
+			"file_write_time": 132378603533680643,
+			"settings":
+			{
+				"buffer_size": 75,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 70.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/C/laragon/www/blog/app/Buyer.php",
+		"/C/laragon/www/blog/routes/api.php",
+		"/C/laragon/www/practica/laravel/routes/web.php",
+		"/C/laragon/www/blog/composer.json",
+		"/C/laragon/www/blog/app/Providers/RouteServiceProvider.php",
+		"/C/laragon/www/blog/vendor/laravel/framework/src/Illuminate/Auth/Console/stubs/make/routes.stub",
+		"/C/laragon/www/blog/vendor/facade/ignition/src/SolutionProviders/RouteNotDefinedSolutionProvider.php",
+		"/C/laragon/www/blog/vendor/facade/ignition/src/IgnitionServiceProvider.php",
+		"/C/laragon/www/blog/routes/web.php",
+		"/C/laragon/www/practicafinal/.env",
+		"/C/laragon/www/blog/app/Providers/AppServiceProvider.php",
+		"/C/laragon/www/blog/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/C/laragon/www/blog/database/migrations/2020_05_28_231115_create_products_table.php",
+		"/C/laragon/www/blog/.env",
+		"/C/Users/BigBull/Desktop/index.php",
+		"/C/Users/BigBull/Desktop/Nico/index.html",
+		"/C/Users/BigBull/Desktop/Nico/niquito.html",
+		"/C/wamp64/www/myra/not",
+		"/C/Users/BigBull/laravel2020/blog/database/seeds/DatabaseSeeder.php",
+		"/C/Users/BigBull/laravel2020/Homestead/Homestead.yaml",
+		"/C/Users/BigBull/laravel2020/blog/app/Http/Controllers/User/UserController.php",
+		"/C/Users/BigBull/laravel2020/blog/app/Providers/RouteServiceProvider.php",
+		"/C/Users/BigBull/laravel2020/blog/database/factories/ModelFactory.php",
+		"/C/Users/BigBull/laravel2020/blog/app/Seller.php",
+		"/C/Users/BigBull/laravel2020/blog/app/Buyer.php",
+		"/C/Users/BigBull/laravel2020/blog/database/migrations/2020_05_28_231515_create_transactions_table.php",
+		"/C/Users/BigBull/laravel2020/blog/app/Category.php",
+		"/C/Users/BigBull/laravel2020/blog/app/Product.php",
+		"/C/Users/BigBull/laravel2020/blog/app/Transaction.php",
+		"/C/Users/BigBull/laravel2020/blog/app/User.php",
+		"/C/Users/BigBull/laravel2020/blog/routes/api.php",
+		"/C/Users/BigBull/laravel2020/Homestead/bin/homestead",
+		"/C/Users/BigBull/laravel2020/blog/config/app.php",
+		"/C/Users/BigBull/laravel2020/blog/app/Http/Controllers/Seller/SellerController.php",
+		"/C/Users/BigBull/AppData/Roaming/Sublime Text 3/Packages/CodeFormatter/Default (Windows).sublime-keymap",
+		"/C/Users/BigBull/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/BigBull/AppData/Roaming/Sublime Text 3/Packages/CodeFormatter/CodeFormatter.sublime-settings",
+		"/C/Users/BigBull/AppData/Roaming/Sublime Text 3/Packages/Pretty JSON/Pretty JSON.sublime-settings",
+		"/C/Users/BigBull/laravel2020/blog/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/C/Users/BigBull/laravel2020/blog/database/migrations/2020_05_28_231115_create_products_table.php",
+		"/C/Users/BigBull/laravel2020/blog/database/migrations/2020_05_30_195551_category_product_table.php",
+		"/C/Users/BigBull/laravel2020/blog/database/migrations/2020_05_28_231552_create_categories_table.php",
+		"/C/Users/BigBull/laravel2020/blog/.env",
+		"/C/Users/BigBull/laravel2020/blog/app/Providers/AppServiceProvider.php",
+		"/C/Users/BigBull/laravel2020/blog/app/Http/Controllers/Buyer/BuyerController.php",
+		"/C/Users/BigBull/laravel2020/blog/routes/web.php",
+		"/C/Users/BigBull/laravel2020/blog/vendor/laravel/framework/src/Illuminate/Foundation/Auth/User.php",
+		"/C/Users/BigBull/laravel2020/blog/vendor/laravel/framework/src/Illuminate/Contracts/Auth/Authenticatable.php",
+		"/C/Users/BigBull/laravel2020/blog/vendor/laravel/framework/src/Illuminate/Notifications/Notifiable.php",
+		"/C/Users/BigBull/Desktop/Joel/versado/Blog/Para el BLog",
+		"/C/Users/BigBull/Desktop/MUEBLE DE COCINA",
+		"/C/Users/BigBull/Desktop/1- controlador envia mail",
+		"/C/Users/BigBull/Desktop/ORIGINALES/hoy/.env",
+		"/C/Users/BigBull/Desktop/ORIGINALES/hoy/database.php",
+		"/C/Users/BigBull/Desktop/Joel/Freelancer/fundacion",
+		"/C/Users/BigBull/Desktop/ORIGINALES/hoy/queue.php",
+		"/C/Users/BigBull/Desktop/ORIGINALES/hoy/MailController.php",
+		"/C/APIRestful/routes/api.php",
+		"/C/Users/BigBull/Desktop/.env",
+		"/C/Users/BigBull/Desktop/mail.php",
+		"/C/Users/BigBull/Desktop/Nueva carpeta (3)/Formulario/formulario.html",
+		"/C/Users/BigBull/Desktop/ORIGINALES/.env",
+		"/C/Users/BigBull/Desktop/ORIGINALES/database.php",
+		"/C/xampp/htdocs/muro 2/requeridos/header.php",
+		"/C/xampp/htdocs/muro 2/index.php",
+		"/C/xampp/htdocs/muro 2/requeridos/nav.php",
+		"/C/xampp/htdocs/muro 2/registrar.php",
+		"/C/xampp/htdocs/muro 2/selection.php",
+		"/C/xampp/htdocs/muro 2/procesar.php",
+		"/C/APIRestful/Homestead.yaml",
+		"/C/xampp/htdocs/back/app/User.php",
+		"/C/APIRestful/.vagrant/machines/apirestful/virtualbox/vagrant_cwd",
+		"/C/APIRestful/.vagrant/machines/apirestful/virtualbox/id",
+		"/C/APIRestful/.vagrant/machines/apirestful/virtualbox/index_uuid",
+		"/C/APIRestful/.vagrant/machines/apirestful/virtualbox/creator_uid",
+		"/C/APIRestful/.vagrant/machines/apirestful/virtualbox/action_set_name",
+		"/C/xampp/htdocs/muro4/crear gmail profesional",
+		"/C/xampp/htdocs/muro 2/usuarios.php",
+		"/C/xampp/htdocs/muro4/autos.php",
+		"/C/xampp/htdocs/muro4/index.php",
+		"/C/xampp/htdocs/muro 2/crear.php",
+		"/C/xampp/htdocs/muro 2/class/usuario.php",
+		"/C/xampp/htdocs/muro 2/perfil.php",
+		"/C/xampp/htdocs/muro3/index.php",
+		"/C/APIRestful/APIRestful.sublime-project",
+		"/C/APIRestful/app/Http/Controllers/Auth/ForgotPasswordController.php",
+		"/C/APIRestful/app/User.php",
+		"/C/xampp/htdocs/muro 2/requeridos/footer.php",
+		"/C/xampp/htdocs/muro 2/prosesar.php",
+		"/C/xampp/htdocs/muro/login.php",
+		"/C/Users/BigBull/APIRestful/Homestead.yaml",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/xampp/htdocs/muro/index.php",
+		"/C/xampp/htdocs/muro 2/conexion/conexion.php",
+		"/C/xampp/htdocs/muro/conexion/conexion.php",
+		"/C/xampp/htdocs/muro/requeridos/footer.php",
+		"/C/xampp/htdocs/muro/requeridos/header.php",
+		"/C/xampp/htdocs/muro/selection.php",
+		"/C/xampp/htdocs/muro/list-publication.php",
+		"/C/xampp/htdocs/muro/list-user.php",
+		"/C/xampp/htdocs/muro/publicacion.php",
+		"/C/xampp/htdocs/muro/test.php",
+		"/C/Users/BigBull/Desktop/hola.html",
+		"/C/xampp/htdocs/muro/css/style.css",
+		"/C/xampp/htdocs/muro/list1",
+		"/C/xampp/htdocs/muro/list2",
+		"/C/Users/BigBull/Desktop/DATOS/mail.php",
+		"/C/Users/BigBull/Desktop/originales/AppUser.php",
+		"/C/Users/BigBull/Desktop/originales/Offer.php",
+		"/C/Users/BigBull/Desktop/DATOS/.env",
+		"/C/Users/BigBull/Desktop/original/mail.php",
+		"/C/Users/BigBull/Desktop/original/.env",
+		"/C/xampp/htdocs/back/routes/api.php",
+		"/C/xampp/htdocs/back/app/Http/Controllers/SubCategorieController.php",
+		"/C/xampp/htdocs/back/app/Models/SubCategorie.php",
+		"/C/xampp/htdocs/back/app/Models/Categorie.php",
+		"/C/xampp/htdocs/back/app/Http/Controllers/CategorieController.php",
+		"/C/xampp/htdocs/back/app/Models/Offer.php",
+		"/C/xampp/htdocs/back/app/Http/Controllers/OfferController.php",
+		"/C/Users/BigBull/Desktop/DATOS/app.php",
+		"/C/Users/BigBull/AppData/Local/Temp/Rar$DIa0.836/README",
+		"/C/Users/BigBull/Desktop/AppUser.php",
+		"/C/Users/BigBull/Desktop/auto.html",
+		"/C/Users/BigBull/AppData/Local/Temp/Rar$DIa0.016/wsaa-client.php",
+		"/C/xampp/htdocs/back/.env",
+		"/C/Users/BigBull/Desktop/Joel/plan",
+		"/C/xampp/htdocs/campoback/.env",
+		"/C/Users/BigBull/Desktop/Joel/campoback/.env"
+	],
+	"find":
+	{
+		"height": 41.0
+	},
+	"find_in_files":
+	{
+		"height": 161.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/laragon/www/practicafinal/database/seeds/DatabaseSeeder.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2100,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5,
+								5
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/laragon/www/practicafinal/app/Http/Controllers/User/UserController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5747,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								340,
+								340
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/laragon/www/practicafinal/app/Http/Controllers/Buyer/BuyerController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1006,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5,
+								5
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/laragon/www/practicafinal/app/User.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1170,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1070,
+								1070
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 360.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "api.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1176,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1176,
+								1176
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 62.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "proyectoPracticaFinal.sublime-project",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 75,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 49.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "proyectoPracticaFinal.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"app\\Buyer.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 416.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
